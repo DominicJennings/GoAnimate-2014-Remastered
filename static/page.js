@@ -137,7 +137,7 @@ module.exports = function (req, res, url) {
 					collab: 0,
 					movieLid: 10,
 			                has_asset_char: "0",
-					nextUrl: "/html/list.html",
+					nextUrl: "/pages/html/list.html",
 					tutorial: 1,
 				},
 				allowScriptAccess: "always",

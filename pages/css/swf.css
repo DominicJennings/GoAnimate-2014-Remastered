@@ -6,7 +6,7 @@ this css contains the swf page styling
 general
 **/
 html, body {
-	background: #696969;
+	background: #eeeeee;
 	margin: 0px;
 }
 
@@ -63,7 +63,7 @@ form {
 	width: 640px;
   }
   .preview-player h2 {
-	color: #505e73;
+	color: #2A2A2A;
 	font-size: 21px;
 	font-weight: normal;
 	line-height: 1;
@@ -75,22 +75,21 @@ form {
 	padding: 14px 0;
   }
   .preview-player a.close_btn {
-	color: #1fbba6;
+	color: #1C1C1C;
 	line-height: 24px;
 	font-size: 24px;
 	font-weight: bold;
 	position: absolute;
 	top: 10px;
 	right: 10px;
-	text-decoration: none;
   }
   .preview-player a.close_btn:hover {
-	color: #029a85;
+	color: #FF8000;
 	text-decoration: none;
   }
   .preview-button,
   .tutorial-button {
-	background-color: #1fbba6;
+	background-color: #646464;
 	border: 0;
 	border-radius: 4px;
 	color: #fff;
@@ -99,18 +98,17 @@ form {
 	font-size: 14px;
 	font-weight: bold;
 	line-height: 36px;
-	text-transform: uppercase;
 	padding: 0 25px;
 	margin: 0 7px;
   }
   .preview-button:hover {
-	background-color: #029a85;
+	background-color: #373737;
   }
   .preview-button.save,
   .tutorial-button {
-	background-color: #f27935;
+	background-color: #646464;
   }
   .preview-button.save:hover,
   .tutorial-button:hover {
-	background-color: #dd6522;
+	background-color: #373737;
   }
